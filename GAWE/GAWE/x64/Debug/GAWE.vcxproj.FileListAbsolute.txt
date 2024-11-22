@@ -1,0 +1,4 @@
+C:\GAWE\GAWE\x64\Debug\GAWE.vcxproj.AssemblyReference.cache
+C:\GAWE\GAWE\x64\Debug\GAWE.MyForm.resources
+C:\GAWE\GAWE\x64\Debug\GAWE.vcxproj.GenerateResource.cache
+C:\GAWE\GAWE\x64\Debug\GAWE.MenuUtama.resources
